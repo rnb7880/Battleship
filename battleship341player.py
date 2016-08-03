@@ -201,3 +201,4 @@ for i in range(1,50):
         if turn == 50:
             end_game('loss')
             break
+#GWC
